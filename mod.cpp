@@ -1,0 +1,13 @@
+name = "Med+ ACE Burns";
+picture = "logo.paa";
+actionName = "Website";
+action = "http://google.com";
+logo = "logo.paa";
+logoOver = "logo.paa";
+tooltip = "Med+ ACE Burns";
+tooltipOwned = "Med+ ACE Burns";
+overview = "This is a medical addon for ACE3 to basic burn wounds and treatment.";
+author = "Church and Rapp";
+overviewPicture = "logo.paa";
+overviewText = "Med+ ACE Burns";
+overviewFootnote = "";
